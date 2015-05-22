@@ -1,2 +1,0 @@
-# datasciencecoursera
-Elyias Datasciencecoursera Project
